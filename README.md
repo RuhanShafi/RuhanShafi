@@ -17,6 +17,7 @@
 * [CNN Model using HAM10000 Dataset](https://github.com/RuhanShafi/HAM10000-CNN-SVM) 
 ### Soft Computing
 * [Genetic Algorithm for Optimization](https://github.com/RuhanShafi/Genetic-Alogrithm-Optmization)
+* [Interactive A* Pathfinder](https://github.com/RuhanShafi/Dynamic-A-star)
 ### Full Stack Web Development
 * [Portfilio Website Project](https://github.com/RuhanShafi/UC-Webdesign-Assessment)
 ### Setup
