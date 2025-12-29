@@ -18,6 +18,7 @@
 ### Soft Computing
 * [Genetic Algorithm for Optimization](https://github.com/RuhanShafi/Genetic-Alogrithm-Optmization)
 * [Interactive A* Pathfinder](https://github.com/RuhanShafi/Dynamic-A-star)
+* [Fuzzy Traffic Controller](https://github.com/RuhanShafi/fuzzy-controller)
 ### Full Stack Web Development
 * [Portfilio Website Project](https://github.com/RuhanShafi/UC-Webdesign-Assessment)
 ### Setup
