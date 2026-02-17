@@ -22,6 +22,7 @@
 ### Full Stack Web Development
 * [Portfilio Website Project](https://github.com/RuhanShafi/UC-Webdesign-Assessment)
 ### Setup
+* [Home Lab](https://github.com/RuhanShafi/HomeServer/)
 * [My Complete Hyprland for Dev Setup](https://github.com/RuhanShafi/Hyprland-Dotfiles)
 * [Neovim Setup (Subset)](https://github.com/RuhanShafi/nvim)
 
